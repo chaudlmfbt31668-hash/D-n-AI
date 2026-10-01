@@ -1,0 +1,8 @@
+{
+  "name": "GreenSort - Tái chế & Phân loại rác",
+  "description": "Website giáo dục tương tác về phân loại, tái chế và xử lý rác thải cho học sinh THPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
